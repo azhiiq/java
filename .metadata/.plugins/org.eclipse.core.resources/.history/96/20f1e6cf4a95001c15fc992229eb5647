@@ -1,0 +1,24 @@
+package com.TestngFeatures;
+
+public class Parameterized_Concept {
+	
+	
+	public void credentials (String username, String password) {
+	 
+		System.out.println("username is :" + username);
+		System.out.println("password is :"+ password);
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

@@ -1,0 +1,33 @@
+package com.TestngFeatures;
+
+import org.testng.annotations.BeforeSuite;
+
+public class Simple_annotations {
+	@BeforeSuite
+public void propertySetting() {
+		
+		System.out.println("property setting");
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

@@ -1,0 +1,36 @@
+package com.TestngFeatures;
+
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+
+public class Simple_annotations {
+	@BeforeSuite
+public void propertySetting() {
+		
+		System.out.println("property setting");
+	}
+	@BeforeTest
+	public void browswelaunch() {
+		System.out.println("Browser Launch");
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}
